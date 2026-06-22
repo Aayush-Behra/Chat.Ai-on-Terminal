@@ -77,22 +77,13 @@ node index.js
 
 | Command | Description             |
 | ------- | ----------------------- |
-| /groq   | Switch to Groq model    |
-| /gemini | Switch to Gemini model  |
+| /switch | Switch to Groq model    |
 | /help   | Show available commands |
 | /clear  | Clear terminal screen   |
 | /exit   | Exit chatbot            |
+| /persona | TO give a persona      |
+| /stream | Toggle stream On/off    |
 
-## Example Usage
-
-```text
-You: /groq
-Using Groq
-
-You: What is AI?
-
-AI: Artificial Intelligence is the simulation of human intelligence by machines.
-```
 
 ## Fallback Mechanism
 
