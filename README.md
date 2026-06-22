@@ -131,6 +131,3 @@ Through this project, I learned:
 * Fallback Architecture
 * Error Handling
 * Git and GitHub Workflow
-
-## Author
-Shweta Sinha
